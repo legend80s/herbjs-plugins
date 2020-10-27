@@ -12,9 +12,14 @@
     "prepublish": "npm run build"
   },
   "devDependencies": {
-    "herb-build-core": "^0.4.2"
+    "herb-build-core": "^0.4.2",
+    "typescript": "^4.0.5"
   },
   "dependencies": {
     "@legend80s/image-to-base64": "^0.0.5"
-  }
+  },
+  "tnpm": {
+    "mode": "yarn"
+  },
+  "gitHead": "ef3d3f7a9625a1f315e16830bb2798b613d68f1b"
 }

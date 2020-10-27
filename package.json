@@ -41,7 +41,7 @@
     "lodash": "^4.17.20",
     "prettier": "^2.0.5",
     "ts-jest": "^26.2.0",
-    "typescript": "^3.9.7"
+    "typescript": "^4.0.5"
   },
   "commitlint": {
     "extends": [
