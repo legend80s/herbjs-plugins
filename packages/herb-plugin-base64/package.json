@@ -1,0 +1,20 @@
+{
+  "name": "herb-plugin-base64",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "dev": "npm run build -- -w",
+    "build": "tsc -p tsconfig.json",
+    "prepublish": "npm run build"
+  },
+  "devDependencies": {
+    "herb-build-core": "^0.4.2"
+  },
+  "dependencies": {
+    "@legend80s/image-to-base64": "^0.0.5"
+  }
+}
