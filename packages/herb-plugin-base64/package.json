@@ -1,5 +1,5 @@
 {
-  "name": "herb-plugin-base64",
+  "name": "@alipay/herb-plugin-base64",
   "version": "0.0.2",
   "license": "MIT",
   "main": "lib/index.js",
@@ -21,5 +21,5 @@
   "tnpm": {
     "mode": "yarn"
   },
-  "gitHead": "ef3d3f7a9625a1f315e16830bb2798b613d68f1b"
+  "gitHead": "830dd4bd4ea45515f3db486d6b2e5a32a1453c84"
 }
