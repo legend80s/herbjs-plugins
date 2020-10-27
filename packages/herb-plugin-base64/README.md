@@ -3,7 +3,7 @@
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![types](https://img.shields.io/badge/types-TypeScript-blue)
 
-> 图片自动转成 base64，性能提升
+> 图片自动转成 base64，减少 HTTP 请求助力性能提升
 
 ## 安装使用
 
